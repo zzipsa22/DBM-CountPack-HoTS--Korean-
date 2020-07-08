@@ -1,0 +1,8 @@
+package-as: DBM-CountPack-HoTS
+
+ignore:
+    - README.md
+    - package.json
+
+move-folders:
+    DBM-CountPack-HoTS/DBM-CountPack-HoTS: DBM-CountPack-HoTS

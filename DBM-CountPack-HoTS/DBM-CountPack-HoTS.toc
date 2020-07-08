@@ -1,0 +1,12 @@
+﻿## Interface: 80300
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Heroes|r
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM 카운트팩|r|cffffe00a>|r |cff69ccf0히오스 ALL|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: @project-author@
+## Version: @project-version@
+## X-DBM-CountPack: 1
+## X-DBM-CountPack-GlobalName: DBMCPHeroesAll
+## X-Curse-Project-ID: 394328
+
+CountLoadList.lua
