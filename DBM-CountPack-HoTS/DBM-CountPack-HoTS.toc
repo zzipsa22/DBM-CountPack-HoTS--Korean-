@@ -1,4 +1,4 @@
-﻿## Interface: 80300
+﻿## Interface: 90001
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Heroes|r
 ## Title-koKR:|cffffe00a<|r|cffff7d0aDBM 카운트팩|r|cffffe00a>|r |cff69ccf0히오스 ALL|r
 ## DefaultState: enabled
